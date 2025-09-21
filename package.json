@@ -1,6 +1,6 @@
 {
   "name": "@fireisgood/simple-signals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple signal implementation to show how they work.",
   "main": "./dist/simple-signals.js",
   "module": "./dist/simple-signals.mjs",
