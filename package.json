@@ -1,0 +1,24 @@
+{
+  "name": "@fireisgood/simple-signals",
+  "version": "0.0.1",
+  "description": "A simple signal implementation to show how they work.",
+  "main": "./dist/simple-signals.js",
+  "module": "./dist/simple-signals.mjs",
+  "types": "./dist/simple-signals.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "test": "jest"
+  },
+  "keywords": [
+    "signals"
+  ],
+  "author": "FireIsGood",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.1.3",
+    "ts-jest": "^29.4.4",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}
