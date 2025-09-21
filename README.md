@@ -1,5 +1,7 @@
 # Simple signals
 
+[![NPM](https://nodei.co/npm/@fireisgood/simple-signals.svg?style=shields&data=v)](https://nodei.co/npm/@fireisgood/simple-signals/) ![NPM License](https://img.shields.io/npm/l/%40fireisgood%2Fsimple-signals)
+
 A simple signal implementation to demonstrate how they work.
 
 This project is based off the implementation as demonstrated by [Joy Of Code on
