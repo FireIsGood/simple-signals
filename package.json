@@ -2,6 +2,10 @@
   "name": "@fireisgood/simple-signals",
   "version": "0.0.2",
   "description": "A simple signal implementation to show how they work.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FireIsGood/simple-signals.git"
+  },
   "main": "./dist/simple-signals.js",
   "module": "./dist/simple-signals.mjs",
   "types": "./dist/simple-signals.d.ts",
