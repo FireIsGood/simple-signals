@@ -1,6 +1,6 @@
 {
   "name": "@fireisgood/simple-signals",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple signal implementation to show how they work.",
   "repository": {
     "type": "git",
